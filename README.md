@@ -15,9 +15,9 @@
     <li>Ferramentas de Prototipação: <b>Figma</b> e <b>Adobe XD</b><br/> </li>
   </ul>
   <li> Meus status do Git Hub <br/><br/>
-    <div style='display: flex; align-items: center;'>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinepsantos&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&custom_title=Anne Caroline's GitHub Stats&layout=compact"/>
-    <img height"150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinepsantos&layout=compact&theme=github_dark"/>
+    <div style='display: inline-block; align-items: center;'>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=carolinepsantos&hide=contribs,prs&count_private=true&show_icons=true&theme=github_dark&custom_title=Anne Caroline's GitHub Stats&layout=compact"/>
+    <img height"120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolinepsantos&layout=compact&theme=github_dark"/>
   </div>
   </li>
   <li>👩‍💻 Você pode entrar em contato comigo pelo</li>
