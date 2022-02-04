@@ -10,9 +10,7 @@
   </ul>
   <li>📖 Atualmente estou estudando sobre</li>
   <ul>
-    <li>UI Design </li>
-    <li>UX Design </li>
-    <li>Ferramentas de Prototipação: <b>Figma</b> e <b>Adobe XD</b><br/> </li>
+    <li><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"> Flutter </li>
   </ul>
   <li> Meus status do Git Hub <br/><br/>
     <div style='display: inline-block; align-items: center;'>
