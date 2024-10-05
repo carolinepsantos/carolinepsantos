@@ -2,7 +2,7 @@
 
 👩‍💻 I'm on an exciting adventure to develop my skills in Data Science and Analytics, with a keen focus on Python and Power BI.
 
-### 🎯 Goals 
+#### 🎯 Goals 
 
 - **Develop proficiency in Python**: Master data manipulation, statistical analysis, and machine learning.
 - **Harness the power of Power BI**: Create interactive dashboards and insightful visualizations.
